@@ -1,2 +1,4 @@
 # news
-1st version of the notebook: [Hypotheses](notebooks/Hypotheses%20V1.pdf)
+Some simple analysis on page views and headlines for a friend.
+
+- 1st version: [Hypotheses](http://nbviewer.jupyter.org/github/tr8dr/news/blob/master/Hypotheses-V1.ipynb)
